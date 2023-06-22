@@ -154,7 +154,7 @@
 
 1. **Analyzing compositionality in visual question answering** *Sanjay Subramanian, Sameer Singh, Matt Gardner* `ViGIL@NeurIPS 2019` [[pdf]](https://aclanthology.org/D16-1203.pdf) 
 
-1. **Lightningdot: Pre-training visual-semantic embeddings for real-time image-text retrieval** *Siqi Sun, Yen-Chun Chen, Linjie Li, Shuohang Wang, Yuwei Fang, Jingjing Liu* `	NAACL 2021` [[pdf]](https://arxiv.org/abs/2103.08784) [[code]](https://github.com/intersun/LightningDOT)
+1. **Lightningdot: Pre-training visual-semantic embeddings for real-time image-text retrieval** *Siqi Sun, Yen-Chun Chen, Linjie Li, Shuohang Wang, Yuwei Fang, Jingjing Liu* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2103.08784) [[code]](https://github.com/intersun/LightningDOT)
 
 1. **Lxmert: Learning cross-modality encoder representations from transformers** *Hao Tan, Mohit Bansal* `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1908.07490) [[code]](https://github.com/airsplay/lxmert)
 
