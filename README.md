@@ -174,8 +174,7 @@
 
 1. **Simvlm: Simple visual language model pretraining with weak supervision** *Zirui Wang, Jiahui Yu, Adams Wei Yu, Zihang Dai, Yulia Tsvetkov, Yuan Cao* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2108.10904)
 
-1. **Visual question answering: A survey of methods and datasets** *Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel
-* `CVIU 2017` [[pdf]](https://arxiv.org/abs/1607.05910)
+1. **Visual question answering: A survey of methods and datasets** *Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel* `CVIU 2017` [[pdf]](https://arxiv.org/abs/1607.05910)
 
 1. **Xgpt: Cross-modal generative pre-training for image captioning** *Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Xin Liu, Ming Zhou* `NLPCC 2021` [[pdf]](https://arxiv.org/abs/2003.01473)
 
