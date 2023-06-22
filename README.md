@@ -146,7 +146,7 @@
 
 1. **Are we pretraining it right? Digging deeper into visio-linguistic pretraining** *Amanpreet Singh, Vedanuj Goswami, Devi Parikh* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2004.08744)
 
-1. **Flava: A foundational language and vision alignment model** ** `` [[pdf]]() [[code]](https://flava-model.github.io/)
+1. **Flava: A foundational language and vision alignment model** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482) [[code]](https://flava-model.github.io/)
 
 1. **Worst of both worlds: Biases compound in pre-trained vision-and-language models** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482) [[code]]()
 
