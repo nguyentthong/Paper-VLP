@@ -136,13 +136,13 @@
 
 1. **Is attention interpretable?** *Sofia Serrano, Noah A. Smith* `ACL 2019` [[pdf]](https://arxiv.org/abs/1906.03731)
 
-1. **Reasoning over vision and language: Exploring the benefits of supplemental knowledge** *Violetta Shevchenko, Damien Teney, Anthony Dick, Anton van den Hengel* `ArXiv 2021` [[pdf]](https://arxiv.org/abs/2101.06013)
+1. **Reasoning over vision and language: Exploring the benefits of supplemental knowledge** *Violetta Shevchenko, Damien Teney, Anthony Dick, Anton van den Hengel* `arXiv 2021` [[pdf]](https://arxiv.org/abs/2101.06013)
 
-1. **Contrastive visual-linguistic pretraining** *Lei Shi, Kai Shuang, Shijie Geng, Peng Su, Zhengkai Jiang, Peng Gao, Zuohui Fu, Gerard de Melo, Sen Su* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2007.13135) [[code]](https://github.com/ArcherYunDong/CVLP-)
+1. **Contrastive visual-linguistic pretraining** *Lei Shi, Kai Shuang, Shijie Geng, Peng Su, Zhengkai Jiang, Peng Gao, Zuohui Fu, Gerard de Melo, Sen Su* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2007.13135) [[code]](https://github.com/ArcherYunDong/CVLP-)
 
 1. **Textcaps: a dataset for image captioning with reading comprehension** *Oleksii Sidorov, Ronghang Hu, Marcus Rohrbach, Amanpreet Singh* `ECCV 2020` [[pdf]](https://arxiv.org/abs/2003.12462)
 
-1. **Are we pretraining it right? Digging deeper into visio-linguistic pretraining** *Amanpreet Singh, Vedanuj Goswami, Devi Parikh* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2004.08744)
+1. **Are we pretraining it right? Digging deeper into visio-linguistic pretraining** *Amanpreet Singh, Vedanuj Goswami, Devi Parikh* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2004.08744)
 
 1. **Flava: A foundational language and vision alignment model** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482) [[code]](https://flava-model.github.io/)
 
