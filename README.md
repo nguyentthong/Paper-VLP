@@ -44,7 +44,7 @@
 
 1. **Vqa-lol: Visual question answering under the lens of logic** *Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang* `ECCV 2020` [[pdf]](https://arxiv.org/abs/2002.08325)
 
-1. **Lamp: label augmented multimodal pretraining** *Jia Guo, Chen Zhu, Yilun Zhao, Heda Wang, Yao Hu, Xiaofei He, Deng Cai* `` [[pdf]](https://arxiv.org/abs/2012.04446)
+1. **Lamp: label augmented multimodal pretraining** *Jia Guo, Chen Zhu, Yilun Zhao, Heda Wang, Yao Hu, Xiaofei He, Deng Cai* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2012.04446)
 
 1. **Deep multimodal representation learning: A survey** *Wenzhong Guo, Jianwen Wang, Shiping Wang* `IEEE Access 2019` [[pdf]](https://ieeexplore.ieee.org/document/8715409)
 
@@ -102,7 +102,7 @@
 
 1. **What does bert with vision look at?** *Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang* `ACL 2020` [[pdf]](https://aclanthology.org/2020.acl-main.469/)
 
-1. **Unsupervised vision-and-language pre-training without parallel images and captions** *Liunian Harold Li, Haoxuan You, Zhecan Wang, Alireza Zareian, Shih-Fu Chang, Kai-Wei Chang* ``NAACL 2021` [[pdf]](https://arxiv.org/abs/2010.12831) [[code]](https://github.com/uclanlp/visualbert)
+1. **Unsupervised vision-and-language pre-training without parallel images and captions** *Liunian Harold Li, Haoxuan You, Zhecan Wang, Alireza Zareian, Shih-Fu Chang, Kai-Wei Chang* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2010.12831) [[code]](https://github.com/uclanlp/visualbert)
 
 1. **Visual to text: Survey of image and video captioning** *Sheng Li, Zhiqiang Tao, Kang Li, Yun Fu* `IEEE Transactions on Emerging Topics in Computational Intelligence 2019` [[pdf]](https://ieeexplore.ieee.org/ielaam/7433297/8768200/8627985-aam.pdf)
 
@@ -124,7 +124,7 @@
 
 1. **Advancing state-of-the-art image recognition with deep learning on hashtags** *Manohar Paluri, Dhruv Mahajan, Ross Girshick, Vignesh Ramanathan* [[pdf]](https://engineering.fb.com/2018/05/02/ml-applications/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/) 
 
-1. **Bridging vision and language from the video-to-text perspective: A comprehensive review** *Jesus Perez-Martin, Benjamin Bustos, Silvio Jamil F. Guimarães, Ivan Sipiran, Jorge Pérez, Grethel Coello Said* `Artificial Intelligence Review` [[pdf]](https://arxiv.org/abs/2103.14785)
+1. **Bridging vision and language from the video-to-text perspective: A comprehensive review** *Jesus Perez-Martin, Benjamin Bustos, Silvio Jamil F. Guimarães, Ivan Sipiran, Jorge Pérez, Grethel Coello Said* `Artificial Intelligence Review 2021` [[pdf]](https://arxiv.org/abs/2103.14785)
 
 1. **Learning transferable visual models from natural language supervision** *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever* `ICML 2021` [[pdf]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/leaderj1001/CLIP)
 
@@ -146,9 +146,9 @@
 
 1. **Flava: A foundational language and vision alignment model** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482) [[code]](https://flava-model.github.io/)
 
-1. **Worst of both worlds: Biases compound in pre-trained vision-and-language models** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482) [[code]]()
+1. **Worst of both worlds: Biases compound in pre-trained vision-and-language models** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482)
 
-1. **From show to tell: A survey on image captioning** *Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Silvia Cascianelli, Giuseppe Fiameni, Rita Cucchiara* `` [[pdf]](https://arxiv.org/abs/2107.06912)
+1. **From show to tell: A survey on image captioning** *Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Silvia Cascianelli, Giuseppe Fiameni, Rita Cucchiara* `IEEE Transactions on Pattern Analysis and Machine Intelligence 2023` [[pdf]](https://arxiv.org/abs/2107.06912)
 
 1. **Vl-bert: Pre-training of generic visual-linguistic representations** *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai* `ICLR 2020` [[pdf]](https://arxiv.org/abs/1908.08530) [[code]](https://github.com/jackroos/VL-BERT)
 
@@ -160,9 +160,9 @@
 
 1. **Vokenization: Improving language understanding with contextualized, visual-grounded supervision** *Hao Tan, Mohit Bansal* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.06775) [[code]](https://github.com/airsplay/vokenization)
 
-1. **Multimodal review generation for recommender systems** *Quoc-Tuan Truong, Hady Lauw* `WWW '19` [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313463)
+1. **Multimodal review generation for recommender systems** *Quoc-Tuan Truong, Hady Lauw* `WWW 2019` [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313463)
 
-1. **Multimodal few-shot learning with frozen language models** *Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, Felix Hill* `Neurips 2022` [[pdf]](https://arxiv.org/abs/2106.13884) [[code]](https://github.com/ilkerkesen/frozen)
+1. **Multimodal few-shot learning with frozen language models** *Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, Felix Hill* `NeurIPS 2022` [[pdf]](https://arxiv.org/abs/2106.13884) [[code]](https://github.com/ilkerkesen/frozen)
 
 1. **Minivlm: A smaller and faster vision-language model** *Jianfeng Wang, Xiaowei Hu, Pengchuan Zhang, Xiujun Li, Lijuan Wang, Lei Zhang, Jianfeng Gao, Zicheng Liu* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2012.06946)
 
@@ -180,13 +180,13 @@
 
 1. **Show, attend and tell: Neural image caption generation with visual attention** *Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio* `ICML 2015` [[pdf]](https://arxiv.org/abs/1502.03044) [[code]](https://github.com/djain454/Show-Attend-and-Tell-Neural-Image-Caption-Generation-with-Visual-Attention)
 
-1. **Probing inter-modality: Visual parsing with self-attention for vision-and-language pre-training** *Hongwei Xue, Yupan Huang, Bei Liu, Houwen Peng, Jianlong Fu, Houqiang Li, Jiebo Luo* `` [[pdf]](https://arxiv.org/abs/2106.13488)
+1. **Probing inter-modality: Visual parsing with self-attention for vision-and-language pre-training** *Hongwei Xue, Yupan Huang, Bei Liu, Houwen Peng, Jianlong Fu, Houqiang Li, Jiebo Luo* `NeurIPS 2021` [[pdf]](https://arxiv.org/abs/2106.13488)
 
 1. **Causal attention for vision-language tasks** *Xu Yang, Hanwang Zhang, Guojun Qi, Jianfei Cai* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2103.03493) [[code]](https://github.com/yangxuntu/lxmertcatt)
 
 1. **Tap: Text-aware pre-training for text-vqa and text-caption** *Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang, Lei Zhang, Jiebo Luo* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2012.04638) [[code]](https://github.com/microsoft/TAP)
 
-1. **Ernie-vil: Knowledge enhanced vision-language representations through scene graph** *Fei Yu, Jiji Tang, Weichong Yin, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang* `AAAI 2021` [[pdf]](https://arxiv.org/abs/2006.16934) [[code]]()
+1. **Ernie-vil: Knowledge enhanced vision-language representations through scene graph** *Fei Yu, Jiji Tang, Weichong Yin, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang* `AAAI 2021` [[pdf]](https://arxiv.org/abs/2006.16934)
 
 1. **Multimodal intelligence: Representation learning, information fusion, and applications** *Chao Zhang, Zichao Yang, Xiaodong He, Li Deng* `IEEE Journal of Selected Topics in Signal Processing 2020` [[pdf]](https://arxiv.org/abs/1911.03977) 
 
