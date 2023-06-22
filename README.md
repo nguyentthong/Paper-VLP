@@ -116,90 +116,91 @@
 
 1. **Interbert: Vision-and-language interaction for multi-modal pretraining** ** `` [[pdf]]() [[code]]()
 
-1. **Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks** ** `` [[pdf]]() [[code]]()
+1. **Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks** ** `` [[pdf]](https://engineering.fb.com/2018/05/02/ml-applications/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/) [[code]]()
 
-1. **12-in-1: Multi-task vision and language representation learning** ** `` [[pdf]]() [[code]]()
+1. **12-in-1: Multi-task vision and language representation learning** *Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee* `CVPR 2020` [[pdf]](https://arxiv.org/abs/1912.02315) [[code]](https://github.com/facebookresearch/vilbert-multi-task)
 
-1. **Large-scale pretraining for visual dialog: A simple state-of-the-art baseline** ** `` [[pdf]]() [[code]]()
+1. **Large-scale pretraining for visual dialog: A simple state-of-the-art baseline** *Vishvak Murahari, Dhruv Batra, Devi Parikh, Abhishek Das* `ECCV 2020` [[pdf]](https://arxiv.org/abs/1912.02379) [[code]](https://github.com/vmurahari3/visdial-bert)
 
-1. **M3p: Learning universal representations via multitask multilingual multimodal pre-training** ** `` [[pdf]]() [[code]]()
+1. **M3p: Learning universal representations via multitask multilingual multimodal pre-training** *Minheng Ni, Haoyang Huang, Lin Su, Edward Cui, Taroon Bharti, Lijuan Wang, Jianfeng Gao, Dongdong Zhang, Nan Duan* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2006.02635) [[code]](https://github.com/microsoft/M3P)
 
-1. **Advancing state-of-the-art image recognition with deep learning on hashtags** ** `` [[pdf]]() [[code]]()
+1. **Advancing state-of-the-art image recognition with deep learning on hashtags** *Manohar Paluri, Dhruv Mahajan, Ross Girshick, Vignesh Ramanathan* [[pdf]](https://engineering.fb.com/2018/05/02/ml-applications/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/) 
 
-1. **Bridging vision and language from the video-to-text perspective: A comprehensive review** ** `` [[pdf]]() [[code]]()
+1. **Bridging vision and language from the video-to-text perspective: A comprehensive review** *Jesus Perez-Martin, Benjamin Bustos, Silvio Jamil F. Guimarães, Ivan Sipiran, Jorge Pérez, Grethel Coello Said* `Artificial Intelligence Review` [[pdf]](https://arxiv.org/abs/2103.14785)
 
-1. **Learning transferable visual models from natural language supervision** ** `` [[pdf]]() [[code]]()
+1. **Learning transferable visual models from natural language supervision** *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever* `ICML 2021` [[pdf]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/leaderj1001/CLIP)
 
-1. **Zero-shot text-to-image generation** ** `` [[pdf]]() [[code]]()
+1. **Zero-shot text-to-image generation** *Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever* `PMLR 2021` [[pdf]](https://arxiv.org/abs/2102.12092)
 
-1. **Learning visual representations with caption annotations** ** `` [[pdf]]() [[code]]()
+1. **Learning visual representations with caption annotations** *Mert Bulent Sariyildiz, Julien Perez, Diane Larlus* `ECCV 2020` [[pdf]](https://arxiv.org/abs/2008.01392)
 
-1. **Interpretable convolutional neural networks with dual local and global attention for review rating prediction** ** `` [[pdf]]() [[code]]()
+1. **Interpretable convolutional neural networks with dual local and global attention for review rating prediction** *Sungyong Seo, Jing Huang, Hao Yang, Yan Liu* `ACM Conference on Recommender Systems 2017` [[pdf]](https://dl.acm.org/doi/10.1145/3109859.3109890) [[code]](https://github.com/seongjunyun/CNN-with-Dual-Local-and-Global-Attention)
 
-1. **Is attention interpretable?** ** `` [[pdf]]() [[code]]()
+1. **Is attention interpretable?** *Sofia Serrano, Noah A. Smith* `ACL 2019` [[pdf]](https://arxiv.org/abs/1906.03731)
 
-1. **Reasoning over vision and language: Exploring the benefits of supplemental knowledge** ** `` [[pdf]]() [[code]]()
+1. **Reasoning over vision and language: Exploring the benefits of supplemental knowledge** *Violetta Shevchenko, Damien Teney, Anthony Dick, Anton van den Hengel* `ArXiv 2021` [[pdf]](https://arxiv.org/abs/2101.06013)
 
-1. **Contrastive visual-linguistic pretraining** ** `` [[pdf]]() [[code]]()
+1. **Contrastive visual-linguistic pretraining** *Lei Shi, Kai Shuang, Shijie Geng, Peng Su, Zhengkai Jiang, Peng Gao, Zuohui Fu, Gerard de Melo, Sen Su* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2007.13135) [[code]](https://github.com/ArcherYunDong/CVLP-)
 
-1. **Textcaps: a dataset for image captioning with reading comprehension** ** `` [[pdf]]() [[code]]()
+1. **Textcaps: a dataset for image captioning with reading comprehension** *Oleksii Sidorov, Ronghang Hu, Marcus Rohrbach, Amanpreet Singh* `ECCV 2020` [[pdf]](https://arxiv.org/abs/2003.12462)
 
-1. **Are we pretraining it right? Digging deeper into visio-linguistic pretraining** ** `` [[pdf]]() [[code]]()
+1. **Are we pretraining it right? Digging deeper into visio-linguistic pretraining** *Amanpreet Singh, Vedanuj Goswami, Devi Parikh* `arxiv 2020` [[pdf]](https://arxiv.org/abs/2004.08744)
 
-1. **Flava: A foundational language and vision alignment model** ** `` [[pdf]]() [[code]]()
+1. **Flava: A foundational language and vision alignment model** ** `` [[pdf]]() [[code]](https://flava-model.github.io/)
 
-1. **Worst of both worlds: Biases compound in pre-trained vision-and-language models** ** `` [[pdf]]() [[code]]()
+1. **Worst of both worlds: Biases compound in pre-trained vision-and-language models** *Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kiela* `CVPR 2022` [[pdf]](https://arxiv.org/abs/2112.04482) [[code]]()
 
-1. **From show to tell: A survey on image captioning** ** `` [[pdf]]() [[code]]()
+1. **From show to tell: A survey on image captioning** *Matteo Stefanini, Marcella Cornia, Lorenzo Baraldi, Silvia Cascianelli, Giuseppe Fiameni, Rita Cucchiara* `` [[pdf]](https://arxiv.org/abs/2107.06912)
 
-1. **Vl-bert: Pre-training of generic visual-linguistic representations** ** `` [[pdf]]() [[code]]()
+1. **Vl-bert: Pre-training of generic visual-linguistic representations** *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai* `ICLR 2020` [[pdf]](https://arxiv.org/abs/1908.08530) [[code]](https://github.com/jackroos/VL-BERT)
 
-1. **Analyzing compositionality in visual question answering** ** `` [[pdf]]() [[code]]()
+1. **Analyzing compositionality in visual question answering** *Sanjay Subramanian, Sameer Singh, Matt Gardner* `ViGIL@NeurIPS 2019` [[pdf]](https://aclanthology.org/D16-1203.pdf) 
 
-1. **Lightningdot: Pre-training visual-semantic embeddings for real-time image-text retrieval** ** `` [[pdf]]() [[code]]()
+1. **Lightningdot: Pre-training visual-semantic embeddings for real-time image-text retrieval** *Siqi Sun, Yen-Chun Chen, Linjie Li, Shuohang Wang, Yuwei Fang, Jingjing Liu* `	NAACL 2021` [[pdf]](https://arxiv.org/abs/2103.08784) [[code]](https://github.com/intersun/LightningDOT)
 
-1. **Lxmert: Learning cross-modality encoder representations from transformers** ** `` [[pdf]]() [[code]]()
+1. **Lxmert: Learning cross-modality encoder representations from transformers** *Hao Tan, Mohit Bansal* `EMNLP 2019` [[pdf]](https://arxiv.org/abs/1908.07490) [[code]](https://github.com/airsplay/lxmert)
 
-1. **Vokenization: Improving language understanding with contextualized, visual-grounded supervision** ** `` [[pdf]]() [[code]]()
+1. **Vokenization: Improving language understanding with contextualized, visual-grounded supervision** *Hao Tan, Mohit Bansal* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2010.06775) [[code]](https://github.com/airsplay/vokenization)
 
-1. **Multimodal review generation for recommender systems** ** `` [[pdf]]() [[code]]()
+1. **Multimodal review generation for recommender systems** *Quoc-Tuan Truong, Hady Lauw* `WWW '19` [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313463)
 
-1. **Multimodal few-shot learning with frozen language models** ** `` [[pdf]]() [[code]]()
+1. **Multimodal few-shot learning with frozen language models** *Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, Felix Hill* `Neurips 2022` [[pdf]](https://arxiv.org/abs/2106.13884) [[code]](https://github.com/ilkerkesen/frozen)
 
-1. **Minivlm: A smaller and faster vision-language model** ** `` [[pdf]]() [[code]]()
+1. **Minivlm: A smaller and faster vision-language model** *Jianfeng Wang, Xiaowei Hu, Pengchuan Zhang, Xiujun Li, Lijuan Wang, Lei Zhang, Jianfeng Gao, Zicheng Liu* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2012.06946)
 
-1. **Vlmo: Unified vision-language pre-training with mixture-of-modality-experts** ** `` [[pdf]]() [[code]]()
+1. **Vlmo: Unified vision-language pre-training with mixture-of-modality-experts** *Hangbo Bao, Wenhui Wang, Li Dong, Qiang Liu, Owais Khan Mohammed, Kriti Aggarwal, Subhojit Som, Furu Wei* `NeurIPS 2022` [[pdf]](https://arxiv.org/abs/2111.02358) [[code]](https://github.com/microsoft/unilm/tree/master/vlmo)
 
-1. **Vd-bert: A unified vision and dialog transformer with bert** ** `` [[pdf]]() [[code]]()
+1. **Vd-bert: A unified vision and dialog transformer with bert** *Yue Wang, Shafiq Joty, Michael R. Lyu, Irwin King, Caiming Xiong, Steven C.H. Hoi* `EMNLP2020` [[pdf]](https://arxiv.org/abs/2004.13278) [[code]](https://github.com/salesforce/VD-BERT)
 
-1. **Simvlm: Simple visual language model pretraining with weak supervision** ** `` [[pdf]]() [[code]]()
+1. **Simvlm: Simple visual language model pretraining with weak supervision** *Zirui Wang, Jiahui Yu, Adams Wei Yu, Zihang Dai, Yulia Tsvetkov, Yuan Cao* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2108.10904)
 
-1. **Visual question answering: A survey of methods and datasets** ** `` [[pdf]]() [[code]]()
+1. **Visual question answering: A survey of methods and datasets** *Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel
+* `CVIU 2017` [[pdf]](https://arxiv.org/abs/1607.05910)
 
-1. **Xgpt: Cross-modal generative pre-training for image captioning** ** `` [[pdf]]() [[code]]()
+1. **Xgpt: Cross-modal generative pre-training for image captioning** *Qiaolin Xia, Haoyang Huang, Nan Duan, Dongdong Zhang, Lei Ji, Zhifang Sui, Edward Cui, Taroon Bharti, Xin Liu, Ming Zhou* `NLPCC 2021` [[pdf]](https://arxiv.org/abs/2003.01473)
 
-1. **E2e-vlp: End-to-end vision-language pre-training enhanced by visual learning** ** `` [[pdf]]() [[code]]()
+1. **E2e-vlp: End-to-end vision-language pre-training enhanced by visual learning** *Haiyang Xu, Ming Yan, Chenliang Li, Bin Bi, Songfang Huang, Wenming Xiao, Fei Huang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01804)
 
-1. **Show, attend and tell: Neural image caption generation with visual attention** ** `` [[pdf]]() [[code]]()
+1. **Show, attend and tell: Neural image caption generation with visual attention** *Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio* `2015 ICML` [[pdf]](https://arxiv.org/abs/1502.03044) [[code]](https://github.com/djain454/Show-Attend-and-Tell-Neural-Image-Caption-Generation-with-Visual-Attention)
 
-1. **Probing inter-modality: Visual parsing with self-attention for vision-and-language pre-training** ** `` [[pdf]]() [[code]]()
+1. **Probing inter-modality: Visual parsing with self-attention for vision-and-language pre-training** *Hongwei Xue, Yupan Huang, Bei Liu, Houwen Peng, Jianlong Fu, Houqiang Li, Jiebo Luo* `` [[pdf]](https://arxiv.org/abs/2106.13488)
 
-1. **Causal attention for vision-language tasks** ** `` [[pdf]]() [[code]]()
+1. **Causal attention for vision-language tasks** *Xu Yang, Hanwang Zhang, Guojun Qi, Jianfei Cai* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2103.03493) [[code]](https://github.com/yangxuntu/lxmertcatt)
 
-1. **Tap: Text-aware pre-training for text-vqa and text-caption** ** `` [[pdf]]() [[code]]()
+1. **Tap: Text-aware pre-training for text-vqa and text-caption** *Zhengyuan Yang, Yijuan Lu, Jianfeng Wang, Xi Yin, Dinei Florencio, Lijuan Wang, Cha Zhang, Lei Zhang, Jiebo Luo* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2012.04638) [[code]](https://github.com/microsoft/TAP)
 
-1. **Ernie-vil: Knowledge enhanced vision-language representations through scene graph** ** `` [[pdf]]() [[code]]()
+1. **Ernie-vil: Knowledge enhanced vision-language representations through scene graph** *Fei Yu, Jiji Tang, Weichong Yin, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang* `AAAI 2021` [[pdf]](https://arxiv.org/abs/2006.16934) [[code]]()
 
-1. **Multimodal intelligence: Representation learning, information fusion, and applications** ** `` [[pdf]]() [[code]]()
+1. **Multimodal intelligence: Representation learning, information fusion, and applications** *Chao Zhang, Zichao Yang, Xiaodong He, Li Deng* `IEEE Journal of Selected Topics in Signal Processing 2020` [[pdf]](https://arxiv.org/abs/1911.03977) 
 
-1. **Curriculum learning for vision-and-language navigation** ** `` [[pdf]]() [[code]]()
+1. **Curriculum learning for vision-and-language navigation** *Jiwen Zhang, Zhongyu Wei, Jianqing Fan, Jiajie Peng* `NeurIPS 2021` [[pdf]](https://arxiv.org/abs/2111.07228) [[code]](https://github.com/IMNearth/Curriculum-Learning-For-VLN)
 
-1. **Vinvl: Revisiting visual representations in vision-language models** ** `` [[pdf]]() [[code]]()
+1. **Vinvl: Revisiting visual representations in vision-language models** *Pengchuan Zhang, Xiujun Li, Xiaowei Hu, Jianwei Yang, Lei Zhang, Lijuan Wang, Yejin Choi, Jianfeng Gao* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2101.00529) [[code]](https://github.com/pzzhang/VinVL)
 
-1. **Egnet: Edge guidance network for salient object detection** ** `` [[pdf]]() [[code]]()
+1. **Egnet: Edge guidance network for salient object detection** *Jia-Xing Zhao, Jiangjiang Liu, Den-Ping Fan, Yang Cao, Jufeng Yang, Ming-Ming Cheng* `ICCV 2019` [[pdf]](https://arxiv.org/abs/1908.08297) [[code]](https://github.com/JXingZhao/EGNet)
 
-1. **Unified vision-language pre-training for image captioning and vqa** ** `` [[pdf]]() [[code]]()
+1. **Unified vision-language pre-training for image captioning and vqa** *Luowei Zhou, Hamid Palangi, Lei Zhang, Houdong Hu, Jason J. Corso, Jianfeng Gao* `AAAI 2020` [[pdf]](https://arxiv.org/abs/1909.11059) [[code]](https://github.com/LuoweiZhou/VLP)
 
-1. **Uc2: Universal cross-lingual cross-modal vision-and-language pre-training** ** `` [[pdf]]() [[code]]()
+1. **Uc2: Universal cross-lingual cross-modal vision-and-language pre-training** *Mingyang Zhou, Luowei Zhou, Shuohang Wang, Yu Cheng, Linjie Li, Zhou Yu, Jingjing Liu* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2104.00332) [[code]](https://github.com/zmykevin/UC2)
 
-1. **Kaleido-bert: Vision-language pre-training on fashion domain** ** `` [[pdf]]() [[code]]()
+1. **Kaleido-bert: Vision-language pre-training on fashion domain** *Mingchen Zhuge, Dehong Gao, Deng-Ping Fan, Linbo Jin, Ben Chen, Haoming Zhou, Minghui Qiu, Ling Shao* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2103.16110) [[code]](https://github.com/mczhuge/Kaleido-BERT)
