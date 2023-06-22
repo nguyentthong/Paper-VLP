@@ -178,7 +178,7 @@
 
 1. **E2e-vlp: End-to-end vision-language pre-training enhanced by visual learning** *Haiyang Xu, Ming Yan, Chenliang Li, Bin Bi, Songfang Huang, Wenming Xiao, Fei Huang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.01804)
 
-1. **Show, attend and tell: Neural image caption generation with visual attention** *Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio* `2015 ICML` [[pdf]](https://arxiv.org/abs/1502.03044) [[code]](https://github.com/djain454/Show-Attend-and-Tell-Neural-Image-Caption-Generation-with-Visual-Attention)
+1. **Show, attend and tell: Neural image caption generation with visual attention** *Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio* `ICML 2015` [[pdf]](https://arxiv.org/abs/1502.03044) [[code]](https://github.com/djain454/Show-Attend-and-Tell-Neural-Image-Caption-Generation-with-Visual-Attention)
 
 1. **Probing inter-modality: Visual parsing with self-attention for vision-and-language pre-training** *Hongwei Xue, Yupan Huang, Bei Liu, Houwen Peng, Jianlong Fu, Houqiang Li, Jiebo Luo* `` [[pdf]](https://arxiv.org/abs/2106.13488)
 
