@@ -26,31 +26,29 @@
 
 1. **X-lxmert: Paint, caption and answer questions with multi-modal transformers** *Jaemin Cho, Jiasen Lu, Dustin Schwenk, Hannaneh Hajishirzi, Aniruddha Kembhavi* `EMNLP 2020` [[pdf]](https://arxiv.org/abs/2009.11278) [[code]](https://github.com/allenai/x-lxmert)
 
-1. **Unifying vision-and-language tasks via text generation** ** `` [[pdf]]() [[code]]()
+1. **Unifying vision-and-language tasks via text generation** *Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal* `ICML 2021` [[pdf]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/VL-T5)
 
-1. **Virtex: Learning visual representations from textual annotations** ** `` [[pdf]]() [[code]]()
+1. **Virtex: Learning visual representations from textual annotations** *Karan Desai, Justin Johnson* `CVPR 2021` [[pdf]](https://arxiv.org/abs/2006.06666) [[code]](https://github.com/kdexd/virtex)
 
-1. **An image is worth 16x16 words: Transformers for image recognition at scale** ** `` [[pdf]]() [[code]]()
+1. **An image is worth 16x16 words: Transformers for image recognition at scale** *Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby* `ICLR 2020` [[pdf]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer)
 
-1. **A survey of vision-language pre-trained models** ** `` [[pdf]]() [[code]]()
+1. **A survey of vision-language pre-trained models** *Yifan Du, Zikang Liu, Junyi Li, Wayne Xin Zhao* `IJCAI 2022` [[pdf]](https://arxiv.org/abs/2202.10936)
 
-1. **Compressing visual-linguistic model via knowledge distillation** ** `` [[pdf]]() [[code]]()
+1. **Compressing visual-linguistic model via knowledge distillation** *Zhiyuan Fang, Jianfeng Wang, Xiaowei Hu, Lijuan Wang, Yezhou Yang, Zicheng Liu* `arXiv 2021` [[pdf]](https://arxiv.org/abs/2104.02096)
 
-1. **Large-scale adversarial training for visionand-language representation learning** ** `` [[pdf]]() [[code]]()
+1. **Large-scale adversarial training for visionand-language representation learning** *Zhe Gan, Yen-Chun Chen, Linjie Li, Chen Zhu, Yu Cheng, Jingjing Liu* `NeurIPS 2020` [[pdf]](https://arxiv.org/abs/2006.06195) [[code_1]](https://github.com/zhegan27/VILLA) [[code_2]](https://github.com/zhegan27/LXMERT-AdvTrain)
 
-1. **Playing lottery tickets with vision and language** ** `` [[pdf]]() [[code]]()
+1. **Playing lottery tickets with vision and language** *Zhe Gan, Yen-Chun Chen, Linjie Li, Tianlong Chen, Yu Cheng, Shuohang Wang, Jingjing Liu, Lijuan Wang, Zicheng Liu* `AAAI 2022` [[pdf]](https://arxiv.org/abs/2104.11832)
 
-1. **Fashionbert: Text and image matching with adaptive loss for cross-modal retrieval** ** `` [[pdf]]() [[code]]()
+1. **Fashionbert: Text and image matching with adaptive loss for cross-modal retrieval** *Dehong Gao, Linbo Jin, Ben Chen, Minghui Qiu, Peng Li, Yi Wei, Yi Hu, Hao Wang* `SIGIR 2020` [[pdf]](https://arxiv.org/abs/2005.09801)
 
-1. **Vqa-lol: Visual question answering under the lens of logic** ** `` [[pdf]]() [[code]]()
+1. **Vqa-lol: Visual question answering under the lens of logic** *Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang* `ECCV 2020` [[pdf]](https://arxiv.org/abs/2002.08325)
 
-1. **Explaining and harnessing adversarial examples** ** `` [[pdf]]() [[code]]()
+1. **Lamp: label augmented multimodal pretraining** *Jia Guo, Chen Zhu, Yilun Zhao, Heda Wang, Yao Hu, Xiaofei He, Deng Cai* `` [[pdf]](https://arxiv.org/abs/2012.04446)
 
-1. **Lamp: label augmented multimodal pretraining** ** `` [[pdf]]() [[code]]()
+1. **Deep multimodal representation learning: A survey** *Wenzhong Guo, Jianwen Wang, Shiping Wang* `IEEE Access 2019` [[pdf]](https://ieeexplore.ieee.org/document/8715409)
 
-1. **Deep multimodal representation learning: A survey** ** `` [[pdf]]() [[code]]()
-
-1. **Dialog-based interactive image retrieval** ** `` [[pdf]]() [[code]]()
+1. **Dialog-based interactive image retrieval** *Xiaoxiao Guo, Hui Wu, Yu Cheng, Steven Rennie, Gerald Tesauro, Rogerio Schmidt Feris* `NeurIPS 2018` [[pdf]](https://arxiv.org/abs/1805.00145) [[code]](https://github.com/XiaoxiaoGuo/fashion-retrieval)
 
 1. **Towards learning a generic agent for vision-andlanguage navigation via pre-training** ** `` [[pdf]]() [[code]]()
 
